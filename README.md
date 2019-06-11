@@ -1,5 +1,5 @@
 # opengl-mini-rubix-cube
-A 2x2 rubix cube implementation in opengl
+A 2x2x2 rubix cube implementation in opengl
 
 ### Controls
 * F/C	 Rotate the top cw/ccw
